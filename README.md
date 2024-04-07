@@ -1,2 +1,2 @@
 # git-practice
-mainで変更
+conflictで変更
