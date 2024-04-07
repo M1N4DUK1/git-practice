@@ -1,2 +1,2 @@
 # git-practice
-no fast forwardで変更
+mainで変更
