@@ -1,3 +1,4 @@
 # git-practice
 conflictで変更
-Gihub上で更新２回目
+Conflict-remote上で更新 
+
